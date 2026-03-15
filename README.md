@@ -59,8 +59,6 @@ secure-assignment-submission-lab
 ├── assignment.txt
 ├── student_submit.py
 ├── lecturer_verify.py
-├── signature.sig
-├── student_public_key.pem
 └── README.md
 
 
