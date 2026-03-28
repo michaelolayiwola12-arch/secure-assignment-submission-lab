@@ -1,5 +1,7 @@
 # Secure Assignment Submission Lab
 
+This project demonstrates practical implementation of cryptographic security controls in real-world scenarios.
+
 This project is a simple cybersecurity lab that demonstrates the four major information security principles:
 
 - Confidentiality
@@ -136,4 +138,4 @@ This lab demonstrates practical applications of:
 # Author
 
 Michael Olayiwola  
-Cybersecurity Professional
+Cybersecurity Analyst | ISC2 CC Certified
